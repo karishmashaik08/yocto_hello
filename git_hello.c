@@ -13,6 +13,6 @@ int main(){
         printf("\n");
         for(int i=0;i<n;i++){
                 printf("hello\n");
-                
+                printf("user's\n");
         }
 }
